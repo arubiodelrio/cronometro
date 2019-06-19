@@ -6,7 +6,13 @@ Esta aplicación la vamos a desarrollar en varias fases.
 
 La primera fase consta de los siguientes pasos:
     1.-Crear un nuevo componente para la vista cronometro.
-    2.-Modificarla vista principal para incluir la vista creada en el paso 1, modificando la plantilla html por defecto creada por Angular.
+    2.-Modificar la vista principal para incluir la vista creada en el paso 1, modificando la plantilla html por defecto creada por Angular.
+
+La segunda fase consta de los siguientes pasos:
+    1.-Modificar la plantilla html del componente para incluir los elementos necesarios:
+        a) La etiqueta que indica el estado del cronómetro.
+        b) El diplay del cronómetro con los minutos, segundos y milisegundos.
+        c) Los botones usados para controlar el cronómetro.
 
 
 ## Development server
