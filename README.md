@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
+Esta aplicación la vamos a desarrollar en varias fases. 
+
+La primera fase consta de los siguientes pasos:
+    1.-Crear un nuevo componente para la vista cronometro.
+    2.-Modificarla vista principal para incluir la vista creada en el paso 1, modificando la plantilla html por defecto creada por Angular.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
