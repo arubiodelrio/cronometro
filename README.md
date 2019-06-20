@@ -11,8 +11,11 @@ La primera fase consta de los siguientes pasos:
 La segunda fase consta de los siguientes pasos:
     1.-Modificar la plantilla html del componente para incluir los elementos necesarios:
         a) La etiqueta que indica el estado del cronómetro.
-        b) El diplay del cronómetro con los minutos, segundos y milisegundos.
+        b) El display del cronómetro con los minutos, segundos y milisegundos.
         c) Los botones usados para controlar el cronómetro.
+
+La tercera fase consta de los siguientes pasos:
+    1.-Modificar el CSS del componente para aplicar estilos al cronómetro.
 
 
 ## Development server
