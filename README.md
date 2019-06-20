@@ -16,6 +16,8 @@ La segunda fase consta de los siguientes pasos:
 
 La tercera fase consta de los siguientes pasos:
     1.-Modificar el CSS del componente para aplicar estilos al cronómetro.
+    2.-Deshabilitar los botones en función del estado del cronómetro.
+    3.-Aplicamos pipes para formatear los minutos y los segundos del cronómetro.
 
 
 ## Development server
